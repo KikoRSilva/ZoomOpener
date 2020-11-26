@@ -1,0 +1,5 @@
+GESTAO|09:00:00|10:30:00|https://videoconf-colibri.zoom.us/j/82622915826|923503
+PO|10:30:00|12:00:00|https://videoconf-colibri.zoom.us/j/91270238241
+ACED|14:00:00|15:00:00|https://videoconf-colibri.zoom.us/j/95892827214?pwd=Y3I5b0loclA4VjNlYjlIeWhwNHdiZz09
+GESTAO|15:00:00|16:00:00|https://videoconf-colibri.zoom.us/j/98842202254?pwd=b1hkZ1dnbDc5L2tJcjdDNTA3Qnl5UT09
+SO|16:00:00|17:30:00|https://discord.gg/p2qgNY3
